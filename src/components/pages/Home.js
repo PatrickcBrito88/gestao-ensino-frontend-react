@@ -7,7 +7,7 @@ function Home(){
         <section className={styles.home_container}>
             <h1>Bem vindo à <span>Gestão Ensino</span></h1>
             <p>Comece a gerenciar sua escola agora mesmo!</p>
-            <LinkButton to="/newproject" text="New Project" />
+            <LinkButton to="/Aluno" text="Cadastrar Aluno" />
             <img src={escola} alt="Gestão Ensino"/>
         </section>
     )

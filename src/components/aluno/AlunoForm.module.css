@@ -1,0 +1,10 @@
+.form {
+    width: 85%;
+    margin: 2em 0;
+}
+
+.form div {
+    width: 50%;
+    display: flex;
+    margin: .5em .5em;
+}
